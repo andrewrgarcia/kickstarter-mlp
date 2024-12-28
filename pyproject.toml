@@ -3,7 +3,6 @@ name = "kickstarter-mlp"
 version = "0.1.0"
 description = ""
 authors = ["Andrew Garcia <garcia.gtr@gmail.com>"]
-license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
